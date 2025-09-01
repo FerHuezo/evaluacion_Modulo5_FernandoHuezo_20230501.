@@ -5,7 +5,7 @@
 - **Carnet:** 20230501
 
 ## Video demostrativo
-- **Enlace:** [Video demostrativo](https://link-al-video.com)  
+- **Enlace:** [Video demostrativo](https://drive.google.com/file/d/15BfWuaqHpY6UeCLIXyizau7yC0yDY-Z0/view?usp=sharing)  
 
 ## Descripción del proyecto
 Esta aplicación fue desarrollada en **React Native** utilizando **Expo**. El proyecto implementa autenticación de usuarios y manejo de datos con Firebase.
